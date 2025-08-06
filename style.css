@@ -65,3 +65,22 @@ body {
     color: #333;
     font-style: italic;
 }
+
+@media (max-width: 600px) {
+    .card {
+        width: 90vw;
+        height: 65vh;
+    }
+
+    .card-front {
+        font-size: 20px;
+    }
+
+    .poem {
+        font-size: 16px;
+    }
+
+    .bouquet {
+        width: 70%;
+    }
+}
