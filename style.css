@@ -5,6 +5,7 @@ body {
     height: 100vh;
     background-color: #fce4ec;
     font-family: 'Georgia', serif;
+    margin: 0;
 }
 
 .card {
